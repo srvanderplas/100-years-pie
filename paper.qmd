@@ -26,6 +26,13 @@ keywords:
 bibliography: "`r rbbt::bbt_write_bib('zotero.bib', overwrite = TRUE, library_id=rbbt::bbt_library_id('Graphics Research'))`"
 ---
 
+Outline:
+- Introduction
+    - Pie vs. Bar shade from early publications - debate for 100 years at least, but we cannot rule out that this disagreement was fundamental to the extinction of the dinosaurs
+    - Pie chart has been attributed to Playfair - cite friendly et al.
+    - The debate over pies vs. bars may be the motivation of the early user studies of statistical graphics, but these studies have since been the victim of overhype and extrapolation well beyond the bounds of the studies themselves. 
+    - The aim of this paper is to examine the historical studies examining pie and bar charts, identifying what each study measured, what the reasonable conclusions are, and how the study was interpreted in later follow-up studies.
+
 ## Introduction {#sec-intro}
 
 <!--- Note that figures and tables (such as @ fig-first and @ tbl-one) should appear in the paper, not at the end or in separate files.  -->

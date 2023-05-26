@@ -1,0 +1,18 @@
+---
+title: "testing-the-link-to-zotero"
+author: "Heike Hofmann"
+date: "2023-01-06"
+output: html_document
+bibliography: "`r rbbt::bbt_write_bib('zotero.bib', overwrite = TRUE, library_id=rbbt::bbt_library_id('Graphics Research'))`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+@lohseCognitiveModelUnderstanding1993;
+
+@breviaryVisionaryScoundrel2006; @spenceWhoWasPlayfair1997
+
+package rbbt

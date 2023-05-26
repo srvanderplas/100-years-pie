@@ -23,7 +23,7 @@ abstract: |
 keywords:
   - 3 to 6 keywords
   - that do not appear in the title
-bibliography: bibliography.bib  
+bibliography: "`r rbbt::bbt_write_bib('zotero.bib', overwrite = TRUE, library_id=rbbt::bbt_library_id('Graphics Research'))`"
 ---
 
 ## Introduction {#sec-intro}

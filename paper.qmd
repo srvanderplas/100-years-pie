@@ -44,6 +44,14 @@ Outline:
 <!-- - For more about ASA\ style, please see [https://files.taylorandfrancis.com/asa-style-guide.pdf](https://files.taylorandfrancis.com/asa-style-guide.pdf). -->
 
 
+## Experiments
+
+- Eells (1926)
+    - Participants - 97 intro general psychology students (35 men, 62 women)
+    - Page of 15 pie charts on day 1 (2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5 components) and page of 15 bar charts on day 2 (same numbers as day 1, but charts G, H, J, N, O were 2x the length).
+    - Rapidity - number of figures in 5 minutes. Median of 9.6 (circles) and 9.5 (bars), Mean of 9.2 (circles), (9.0) (bars). Conclusion - slightly in favor of circles. 
+
+
 
 ## Conclusion {#sec-conc}
 

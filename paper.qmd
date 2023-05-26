@@ -28,7 +28,7 @@ bibliography: "`r rbbt::bbt_write_bib('zotero.bib', overwrite = TRUE, library_id
 
 ## Introduction {#sec-intro}
 
-<!-- - Note that figures and tables (such as @fig-first and @tbl-one) should appear in the paper, not at the end or in separate files. -->
+<!--- Note that figures and tables (such as @ fig-first and @ tbl-one) should appear in the paper, not at the end or in separate files.  -->
 <!-- - In document front matter, you may set the key `blinded` under a `journal` key to hide the authors and acknowledgements, producing the required anonymized version. -->
 <!-- - Remember that in the anonymized version, you should not identify authors indirectly in the text.  That is, don't say "In Smith et. al.  (2009) we showed that ...". Instead, say "Smith et. al. (2009) showed that ...". -->
 <!-- - These points are only intended to remind you of some requirements. -->
@@ -36,6 +36,21 @@ bibliography: "`r rbbt::bbt_write_bib('zotero.bib', overwrite = TRUE, library_id
 <!-- at [http://amstat.tandfonline.com/action/authorSubmission?journalCode=uasa20&page=instructions#.VFkk7fnF_0c](http://amstat.tandfonline.com/action/authorSubmission?journalCode=uasa20&page=instructions#.VFkk7fnF_0c) -->
 <!-- - For more about ASA\ style, please see [https://files.taylorandfrancis.com/asa-style-guide.pdf](https://files.taylorandfrancis.com/asa-style-guide.pdf). -->
 
+
+First barchart: William Playfair @playfairPlayfairCommercialPolitical2005, @spenceNoHumblePie2005
+
+
+
+
+In the US, one of the first pie charts was introduced in the appendix of the Statistical Atlas accompanying the 1870 Decennial Census written by Fred Wines, the 
+https://www2.census.gov/library/publications/decennial/1870/atlas/1870d-map-51.pdf
+
+The general form of categorical data in that census has the form of boxes, as seen in plate #31:
+https://www2.census.gov/library/publications/decennial/1870/atlas/1870d-map-28.pdf
+
+
+In the Statistical atlas for the eleventh Decennial Census published in 1898, pie charts are used to show these summaries: plate #35: composition of church membership of the states and territories: 
+https://www.loc.gov/resource/g3701gm.gct00010/?sp=67
 
 
 ## Conclusion {#sec-conc}
